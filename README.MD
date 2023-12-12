@@ -7,7 +7,7 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-  Drop me an email at <a href="mailto:teixayo@gmail.com">teixayo@gmail.com</a>
+  Drop me an email at <a href="mailto:teixayo@gmail.com">mr.teixayo@gmail.com</a>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
