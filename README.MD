@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/teixayo/count.svg?"  />
-</div>
-
-###
-
 <h3 align="center">Languages and Tools:</h3>
 
 ###
