@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Game and Software Developer from Iran</h3>
+<h3 align="center">Game and Software Developer</h3>
 
 ###
 
